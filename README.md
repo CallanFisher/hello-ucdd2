@@ -1,4 +1,4 @@
-# hello-ucdd2
+#://callanfisher.firebaseio.com/ hello-ucdd2
 
 # Warmup Learning Challenge
 
@@ -12,7 +12,7 @@ If you are successful, you should have a site that looks like this:
 
 ![screenshot of the site](site.png)
 
-[https://hello-ucdd2.firebaseapp.com/](https://hello-ucdd2.firebaseapp.com/)
+[https://callanfisher.firebaseapp.com/](https://callanfisher.firebaseapp.com/)
 
 ## Due
 before the first class
